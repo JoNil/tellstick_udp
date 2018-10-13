@@ -1,0 +1,7 @@
+[package]
+name = "tellstick_udp"
+version = "0.1.0"
+authors = ["Jonathan"]
+
+[dependencies]
+byteorder = "1"
